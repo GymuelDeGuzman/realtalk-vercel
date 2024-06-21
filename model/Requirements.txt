@@ -1,0 +1,8 @@
+numpy
+librosa
+pillow
+matplotlib 
+flask
+flask_cors
+typing-extensions==3.*
+arviz
